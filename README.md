@@ -51,7 +51,7 @@ A Java Spring Boot-based backend application for managing a collection of plants
 ```bash
 # Clone the repository
 git clone https://github.com/charan2r/plants-app.git
-cd plant-manager-backend
+cd plants-app
 
 # Add this to application.properties
 spring.datasource.url=jdbc:mysql://localhost:3306/your_db_name
